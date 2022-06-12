@@ -160,7 +160,7 @@ const Recbut = styled.div`
   background-color: transparent ;
   color: black;
     .acc{
-      transform: scale(1) ;
+      transform: scale(1.09) ;
     }
     transition: 0.3s ease-in-out;
 }
@@ -269,6 +269,7 @@ input{
     }
     box-shadow: 5px 5px 0px #333;
     color: #fff;
+  
     transition: 0.3s ease-in-out;
 }
 

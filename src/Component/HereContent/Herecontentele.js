@@ -47,7 +47,7 @@ export const Left = styled.div`
     justify-content: center;
     align-items: center;
     padding: 100px;
-    
+    width: 500px;
     .now{
         position: absolute;
         right: -50px;

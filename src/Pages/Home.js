@@ -96,8 +96,8 @@ const RotatorY = keyframes`
 
 
 const Box = styled.div`
-    height:400px;
-  width: 400px;
+    height:300px;
+  width: 300px;
   overflow: hidden;
   position: absolute;
   border-radius: 25px;
@@ -109,8 +109,8 @@ const Box = styled.div`
     
 `
 const Box1 = styled.div`
-    height:300px;
-  width: 300px;
+    height:200px;
+  width: 200px;
   overflow: hidden;
   position: absolute;
   border-radius: 25px;

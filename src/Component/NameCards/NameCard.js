@@ -32,13 +32,13 @@ const Texter = styled.div`
     flex-direction: column;
     position: relative;
     font-family: 'Open Sans', sans-serif;
-    font-size: 30px;
+    font-size: 20px;
     span{
         font-family: 'Pacifico', cursive;
         position: absolute;
-        top: -100px;
+        top: -70px;
         left: 100px;
-        font-size: 50px;
+        font-size: 35px;
     }
     
 `
@@ -58,8 +58,8 @@ const CardCont = styled.div`
   justify-content: center;
   align-items: center;
   position: absolute;
-  width: 150px;
-  height: 150px;
+  width: 120px;
+  height: 120px;
   border-radius: 10px;
   /* background-color: red; */
   top: -55px;
@@ -74,11 +74,11 @@ const CardCont = styled.div`
     
   }
 .container1{
-    margin: 160px;
-    padding: 50px;
+    margin: 100px;
+    padding: 30px;
   position: relative;
-  width: 700px;
-  height: 400px;
+  width: 500px;
+  height: 300px;
   font-size: 40px;
   background: #111;
   display: flex;
@@ -96,8 +96,8 @@ const CardCont = styled.div`
   top: -70px;
   left: -70px;
   position: absolute;
-  width: 180px;
-  height: 180px;
+  width: 150px;
+  height: 150px;
   border-radius: 10px;
   background: rgba(255,255,255,0.15);
   filter: blur(1px);

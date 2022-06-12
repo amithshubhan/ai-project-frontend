@@ -39,6 +39,7 @@ const wave = keyframes`
 `
 const Cont = styled.div`
   min-height: 55vh;
+  /* width: 100%; */
   margin: 200px;
   flex-direction:column ;
   justify-content:center ;

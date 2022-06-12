@@ -24,7 +24,7 @@ const Fcont = styled.div`
     width: 100%;
     bottom: 0px;
     display: flex;
-    height: 100px;
+    height: 60px;
     padding: 30px;
     margin-top: 150px;
     justify-content: center;

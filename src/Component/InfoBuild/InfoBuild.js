@@ -34,14 +34,14 @@ const popup = keyframes`
 
 const InfoCont = styled.div`
     padding:30px;
-    width: 500px;
+    width: 400px;
   border-radius: 10px;
-  height: 300px;
+  height: 250px;
   justify-content: center;
   display: flex;
   background: white;
   align-items: center;
-  font-size: 25px;
+  font-size: 20px;
   font-weight: bold;
   position: relative;
   border: 6px solid #000;
@@ -50,7 +50,7 @@ const InfoCont = styled.div`
 const Circle = styled.div`
 animation: ${popup} 1s forwards;
     position: absolute;
-  width: 250px;
+  width: 200px;
   z-index: -1;
   aspect-ratio: 1/1;
   border-radius: 50%;
